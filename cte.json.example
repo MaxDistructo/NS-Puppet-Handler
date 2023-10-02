@@ -1,0 +1,6 @@
+{
+  "puppet1":"password1",
+  "puppet2":"password2",
+  ...,
+  "puppetx":"passwordx"
+}
