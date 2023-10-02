@@ -4,7 +4,7 @@ import os
 import time
 
 def ping_main():
-    sans.set_agent(os.environ.get("NS_CTE_UA", "MaxDistructo's Anti-CTE Script"))
+    sans.set_agent(os.environ.get("NS_CTE_UA", "Unregistered Anti-CTE Script"))
     #api = nationstates.Nationstates(os.environ.get("NS_CTE_UA"), "Anti-CTE")
     puppets = ""
     RATELIMIT_NUM = 50
