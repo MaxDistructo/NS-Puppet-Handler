@@ -19,3 +19,8 @@ If you don't want to automatically answer issues but prevent CTE, put the nation
   ...
   "puppetx":"passwordx"
 }
+
+Please also either set the following environment variables or replace the placeholder text at the top of both scripts. THIS IS REQUIRED BY NATIONSTATES API RULES, FAILIURE TO COMPLY MAY GET YOUR IP BANNED.
+
+NS_CTE_UA="PrimaryNation Anti-CTE Script"
+NS_ISSUE_UA="PrimaryNation Puppet Issue Answer Script"
