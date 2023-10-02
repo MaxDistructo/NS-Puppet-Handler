@@ -8,7 +8,7 @@ import xml.etree.ElementTree as ET
 
 def issue_main():
     # api = nationstates.Nationstates(os.environ.get("NS_ISSUE_UA"), "Puppet Issue Answerer")
-    sans.set_agent(os.environ.get("NS_ISSUE_UA", "NS-Puppet-Handler - Issue Handler - User has not claimed this script usage"))
+    sans.set_agent(os.environ.get("NS_ISSUE_UA", "PrimaryNation Puppet Issue Answer Script"))
     puppets = ""
     RATELIMIT_NUM = 50
     RATELIMIT_SEC = 30
